@@ -67,6 +67,9 @@ replay_pid*
 *.sublime-workspace
 *.sublime-project
 
+# --- Metals (Scala/Java tooling) ---
+.metals/
+
 # --- MacOS ---
 .DS_Store
 
