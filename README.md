@@ -9,6 +9,13 @@ Cliente web SPA para BluePrints desarrollado con React y Vite. Incluye manejo de
 ## Link de la bitacora
 Link: https://docs.google.com/document/d/1_apI7ou5EtfK1jwqoqxLLkJk_ORJYWzrHaz5tRbNhTk/edit?usp=sharing 
 
+## NOTA
+Debido al docker compose, se decidió crear otro repositorio donde estuvieran los directorios de frontend y de backend para mayor facilidad de ejecución. Entonces esa es la razón del porque hay muy pocos commits de una sola persona. 
+En caso de querer verlos estos son los links de cada uno:
+Backend: https://github.com/juanalch/Backend_BluePrints_Java21_API_Security_JWT.git
+
+Frontend: https://github.com/Anderfg13/Lab_P3_BluePrints_React_UI-FRONT.git
+
 ## Tabla de contenido
 1. [Resumen del proyecto](#resumen-del-proyecto)
 2. [Tecnologías](#tecnologías)
