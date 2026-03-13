@@ -6,6 +6,9 @@ Cliente web SPA para BluePrints desarrollado con React y Vite. Incluye manejo de
 - Anderson Fabian Garcia Nieto
 - Juana Lozano Chaves
 
+## Link de la bitacora
+Link: https://docs.google.com/document/d/1_apI7ou5EtfK1jwqoqxLLkJk_ORJYWzrHaz5tRbNhTk/edit?usp=sharing 
+
 ## Tabla de contenido
 1. [Resumen del proyecto](#resumen-del-proyecto)
 2. [Tecnologías](#tecnologías)
